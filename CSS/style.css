@@ -15,7 +15,7 @@ body{
     justify-content:space-between;
     align-items:center;
     padding:20px 8%;
-    background:white;
+    background: white;
 }
 
 .navbar ul{
@@ -25,8 +25,12 @@ body{
 }
 
 .navbar a{
-    text-decoration:none;
-    color:#333;
+    display: block;
+    padding: 10px 15px;
+    border: 2px solid #1E5A8A;
+    border-radius: 8px;
+    text-decoration: none;
+    color: #1E5A8A;
 }
 
 .hero{
